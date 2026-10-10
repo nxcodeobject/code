@@ -1,4 +1,4 @@
-# NXC
+# NXCODE
 
 Klien AI coding agent NXC: kanvas Monokai seragam, label agent **Build** / **Plan**
 berwarna brand, dan kotak prompt input gelap tersendiri.
